@@ -11,11 +11,7 @@ I joined Spotify last year, I was curious to know more about my streaming habit,
           <li>My favorite artist.</li>
           <li>Top song.</li>
  </ul>
-  </p>
- <p>       
-<a href="https://donbigi.github.io/Ucosibe/spotify.html" target="_blank">Click Here</a> to see a summary of my findings <br>
-<a href="https://public.tableau.com/app/profile/uchechukwu.cos.ibe/viz/spotifyanalysis_16421777483760/Dashboard1?publish=yes" target="_blank">Click Here </a> to see Tableau dashboard
- <p>                                                                                                                                      
+  </p>                                                                                                                                     
 <p style="text-align: justify;"><strong>About the data</strong> 
           <br> One of the beautiful things I love about Spotify is the ability 
             to request a download of all my streaming history. Anyone can ask 
@@ -43,6 +39,7 @@ I joined Spotify last year, I was curious to know more about my streaming habit,
           I used SQL to clean the data according to my needs. The code used for 
           cleaning is named <strong>"cleaning_and_formatting_code.sql"</strong> 
         </p>
-                                                                      <a href="https://donbigi.github.io/Ucosibe/spotify.html" target="_blank">Click Here</a> to see a summary of my findings <br>
-          
-         
+                                                                      <p>       
+<a href="https://donbigi.github.io/Ucosibe/spotify.html" target="_blank">Click Here</a> to see a summary of my findings <br>
+<a href="https://public.tableau.com/app/profile/uchechukwu.cos.ibe/viz/spotifyanalysis_16421777483760/Dashboard1?publish=yes" target="_blank">Click Here </a> to see Tableau dashboard
+ <p> 
