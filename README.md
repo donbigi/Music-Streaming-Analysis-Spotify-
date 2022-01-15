@@ -9,3 +9,6 @@ The timeline of my streaming.
 What day I listened to music the most.
 My favorite artist.
 Top song.
+
+<a href="https://donbigi.github.io/Ucosibe/spotify.html" target="_blank">CLICK HERE</a> to see a summary of my findings
+<a href="https://public.tableau.com/app/profile/uchechukwu.cos.ibe/viz/spotifyanalysis_16421777483760/Dashboard1?publish=yes" target="_blank">Click HERE </a> Tableau dashboard
