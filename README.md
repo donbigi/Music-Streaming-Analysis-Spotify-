@@ -13,6 +13,6 @@ I joined Spotify last year, I was curious to know more about my streaming habit,
  </ul>
   </p>
  <p>       
-<a href="https://donbigi.github.io/Ucosibe/spotify.html" target="_blank">CLICK HERE</a> to see a summary of my findings <br>
-<a href="https://public.tableau.com/app/profile/uchechukwu.cos.ibe/viz/spotifyanalysis_16421777483760/Dashboard1?publish=yes" target="_blank">Click HERE </a> Tableau dashboard
+<a href="https://donbigi.github.io/Ucosibe/spotify.html" target="_blank">Click Here</a> to see a summary of my findings <br>
+<a href="https://public.tableau.com/app/profile/uchechukwu.cos.ibe/viz/spotifyanalysis_16421777483760/Dashboard1?publish=yes" target="_blank">Click Here </a> to see Tableau dashboard
  <p>                                                                                                                                      
