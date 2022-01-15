@@ -43,4 +43,6 @@ I joined Spotify last year, I was curious to know more about my streaming habit,
           I used SQL to clean the data according to my needs. The code used for 
           cleaning is named <strong>"cleaning_and_formatting_code.sql"</strong> 
         </p>
+                                                                      <a href="https://donbigi.github.io/Ucosibe/spotify.html" target="_blank">Click Here</a> to see a summary of my findings <br>
+          
          
