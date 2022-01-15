@@ -43,7 +43,6 @@ I joined Spotify last year, I was curious to know more about my streaming habit,
           I used SQL to clean the data according to my needs. The code used for 
           cleaning is named <strong>"cleaning_and_formatting_code.sql"</strong> 
         </p>
-
          <p>
           During my analysis, I discovered between <strong>February 2021 and January 2022</strong>, 
           I have spent approximately <strong>84,513.55 minutes </strong>(about 58 days!)  listening 
