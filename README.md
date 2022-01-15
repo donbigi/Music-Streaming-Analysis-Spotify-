@@ -51,7 +51,7 @@ I joined Spotify last year, I was curious to know more about my streaming habit,
           period, I listened to <strong>3,813</strong> unique artists and <strong>9,506</strong> unique songs,
            but in total, I listened to <strong>26,201</strong> songs.
         </p>
-        <p>&nbsp;</p>
+        
         <p style="text-align: justify;"> <strong>My streaming history timeline</strong> <br>
           I know I spend a lot of time listening to music listening to music. I didn't realize
           it was this much time! (84,513.55 minutes between February 2021 and January 2022). 
@@ -61,7 +61,7 @@ I joined Spotify last year, I was curious to know more about my streaming habit,
         </div>
         <p style="text-align: justify;">
           To be fair, music helps me sleep at night, so there is a massive spike when I go 
-          to bed. 
+          to bed. </p>
 
           <p>&nbsp;</p>
         </p>
